@@ -12,9 +12,9 @@
 
 
 ## 😎Members
-|  신우림(🌳팀장🌳)     | 조현진     |  한지민     |
+|  신우림(🌳팀장🌳)     | 한지민     |  조현진     |
 |:-----------------:|:----------------:|:-----------------:|
-| 5기      | 6기 | 4기 | 
-| [Rainwoorimforest](https://github.com/Rainwoorimforest)        |  [hyun-jin891](https://github.com/hyun-jin891)  |  [mini808](https://github.com/mini808)   |
+| 5기      | 4기 | 6기 | 
+| [Rainwoorimforest](https://github.com/Rainwoorimforest)        | [mini808](https://github.com/mini808)  | [hyun-jin891](https://github.com/hyun-jin891)  |
 
 
